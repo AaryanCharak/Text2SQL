@@ -24,7 +24,8 @@ The project includes two example scripts:
 
 
 ### Architecture
-<img src="./img/rag.png" height="600" width="1200" >
+<img width="1582" height="898" alt="image" src="https://github.com/user-attachments/assets/128bc953-c071-47e9-aefb-cd33c33e5c80" />
+
 
 ```
 
